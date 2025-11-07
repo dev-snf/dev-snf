@@ -1,5 +1,4 @@
-
-<h1 align="center">Hi 👋, I'm Samsun Nahar Ferdousi (SNF)</h1>
+<img scr="https://media.licdn.com/dms/image/v2/D4E16AQH-3gi49t6a5w/profile-displaybackgroundimage-shrink_350_1400/B4EZo5UYzIGYAY-/0/1761898241500?e=1764201600&v=beta&t=ZuehSzq00YIed_MIAMQuy82T_XUSFoYeb8J6nZ1adkk">
 <h3 align="center">Professional SEO & WordPress Specialist | Web Developer & Designer with 5+ years of success in creating high-impact websites, optimizing performance, and delivering measurable ROI through strategic SEO campaigns.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-snf&label=Profile%20views&color=0e75b6&style=flat" alt="dev-snf" /> </p>
