@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/v2/D4E16AQH-3gi49t6a5w/profile-displaybackgroundimage-shrink_200_800/B4EZo5UYzIGYAU-/0/1761898241500?e=1782345600&v=beta&t=1LsWlztY2e6PI8LTyi1M_OhiASdhkePcF6xGXgRhU5A">
+<img src="https://media.licdn.com/dms/image/v2/D5616AQFLgyzuMwLxQQ/profile-displaybackgroundimage-shrink_200_800/B56Z8D88XZHYAQ-/0/1782477735996?e=1786579200&v=beta&t=RKl2ir67SKGAa3LjJQTwnpvvVJClJCf7EFRtlBsLp3w">
 <h3 align="center">Professional SEO & WordPress Specialist | Web Developer & Designer with 5+ years of success in creating high-impact websites, optimizing performance, and delivering measurable ROI through strategic SEO campaigns.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-snf&label=Profile%20views&color=0e75b6&style=flat" alt="dev-snf" /> </p>
